@@ -93,7 +93,7 @@ The Sum of first and last digits = 6
 
 Watch the complete explanation of these programs here:
 
-**📺 Video Link:** **
+**📺 Video Link:** *https://drive.google.com/file/d/1E7OIZWLcK1jHirtKFeslxGemMcxQ2z2Y/view?usp=drive_link*
 
 ---
 
