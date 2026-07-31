@@ -4,8 +4,6 @@
 
 <img src="https://img.shields.io/badge/Language-C-blue.svg" />
 <img src="https://img.shields.io/badge/Level-Beginner-success.svg" />
-<img src="https://img.shields.io/badge/Platform-Console-orange.svg" />
-<img src="https://img.shields.io/badge/License-MIT-green.svg" />
 
 A collection of beginner-friendly **C programs** focused on mastering **1D Arrays** and **2D Arrays**. This repository demonstrates fundamental array operations including searching, matrix manipulation, element filtering, and row/column computations.
 
