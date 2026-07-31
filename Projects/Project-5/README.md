@@ -197,20 +197,6 @@ After completing these programs, you will understand:
 
 ---
 
-# 🚀 Future Improvements
-
-- Matrix Addition
-- Matrix Multiplication
-- Matrix Subtraction
-- Diagonal Sum
-- Sparse Matrix
-- Identity Matrix
-- Symmetric Matrix Check
-- Searching in Arrays
-- Sorting Algorithms
-
----
-
 # 🎥 Explanation Video
 
 📺: **
